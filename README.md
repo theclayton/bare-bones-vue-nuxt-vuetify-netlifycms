@@ -2,6 +2,9 @@
 
 Bare-bones Vue, Nuxt, Vuetify, Netlify CMS project without all the distractions
 
+[View Live Netlify App](https://vue-nuxt-vuetify-cms.netlify.app/)
+
+
 Includes Netlify CMS backend content management for basic text fields and images.
 
 ## Build Setup
